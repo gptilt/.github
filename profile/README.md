@@ -12,11 +12,13 @@
 
 ## Our Mission
 
-We believe in the power of data to unlock deeper insights into League of Legends gameplay. Our goal is to:
+We believe in the power of data to unlock deeper insights into League of Legends gameplay.
 
-* **Provide High-Quality Datasets for FREE:** Curate, normalize, and enrich raw LoL data into formats specifically designed for efficient data analysis and machine learning workloads.
-* **Develop Foundational Tools:** Create utility libraries and tools that simplify common needs when working with LoL data.
-* **Foster Community Collaboration:** Enable data scientists, analysts, and enthusiasts to easily access and utilize LoL data for their projects.
+We're committed to delivering:
+
+* **High-Quality Datasets for FREE:** Curate, normalize, and enrich raw LoL data into formats specifically designed for efficient data analysis and machine learning workloads.
+* **Foundational Tools for Common Problems:** Create utility libraries and tools that simplify common needs when working with LoL data.
+* **Community Collaboration:** Enable data scientists, analysts, and enthusiasts to easily access and utilize LoL data for their projects.
 
 ## Links
 
