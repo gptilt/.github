@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Empowering the League of Legends community with high-quality, <b>open-source</b> <b>datasets</b> and <b>foundational tools</b> for <b>data science and research</b>.
+  <b>Empowering the League of Legends community with high-quality, open-source datasets and foundational tools for data science and research.</b>
 </p>
 
 ---
