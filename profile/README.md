@@ -32,7 +32,7 @@ We're committed to delivering:
 
 ### 🏗️ Ultimate datasets, of 100M match events and 15 minute snapshots from 100K matches
 
-### 🏗️ GPTilt - Generative Pretrained Transformer-based model for LoL event sequence prediction
+### 🏗️ GPTilt - Generative Pre-Trained Transformer-based model for LoL event sequence prediction
 
 ### 💡 GPTilt fine-tuning for different tasks
 
