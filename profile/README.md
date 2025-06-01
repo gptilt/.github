@@ -34,6 +34,8 @@ We're committed to delivering:
 
 ### 🏗️ GPTilt - Generative Pre-Trained Transformer-based model for LoL event sequence prediction
 
+### 💡 GPTilt interpretability - what can we learn from it?
+
 ### 💡 GPTilt fine-tuning for different tasks
 
 ## Links
