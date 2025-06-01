@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Empowering the League of Legends community with high-quality, open-source datasets and foundational tools for data science and research.</b>
+  <b>Empowering the League of Legends community with high-quality, open-source datasets, foundational tools and models for data science and research.</b>
 </p>
 
 ---
@@ -16,9 +16,25 @@ We believe in the power of data to unlock deeper insights into League of Legends
 
 We're committed to delivering:
 
-* **High-Quality Datasets for FREE:** Curate, normalize, and enrich raw LoL data into formats specifically designed for efficient data analysis and machine learning workloads.
-* **Foundational Tools for Common Problems:** Create utility libraries and tools that simplify common needs when working with LoL data.
-* **Community Collaboration:** Enable data scientists, analysts, and enthusiasts to easily access and utilize LoL data for their projects.
+- **High-Quality Datasets:** Curate, normalize, and enrich raw LoL data into formats specifically designed for efficient data analysis and machine learning workloads. All datasets will be open-code, most datasets will be FREE, a few will be monetized to help finance GPTilt.
+- **Foundational Tools for Common Problems:** Create utility libraries and tools that simplify common needs when working with LoL data.
+- **Community Collaboration:** Enable data scientists, analysts, and enthusiasts to easily access and utilize LoL data for their projects.
+
+## Roadmap
+
+### ✅ Basic dataset of [10K challenger matches](https://huggingface.co/datasets/gptilt/lol-basic-matches-challenger-10k)
+
+### ✅ Ultimate datasets, of [10M match events](https://huggingface.co/datasets/gptilt/lol-ultimate-events-challenger-10m) and [15 minute snapshots](https://huggingface.co/datasets/gptilt/lol-ultimate-snapshot-challenger-15min)
+
+### ✅ [Public workspace for sharing ML experiments](https://www.comet.com/gptilt#projects)
+
+### 🏗️ Basic dataset of 100K challenger matches
+
+### 🏗️ Ultimate datasets, of 100M match events and 15 minute snapshots from 100K matches
+
+### 🏗️ GPTilt - Generative Pretrained Transformer-based model for LoL event sequence prediction
+
+### 💡 GPTilt fine-tuning for different tasks
 
 ## Links
 
