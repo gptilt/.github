@@ -32,7 +32,7 @@ We're committed to delivering:
 
 ### 🏗️ GPTilt Bench - Collection of benchmark datasets
 
-### 🏗️ GPTilt Warehouse in AWS Data Exchange
+### 🏗️ GPTilt Catalog - a set of premium, curated Iceberg tables available in AWS Data Exchange
 
 ### 🏗️ GPTilt PoC - Proof of Concept of a Generative Pre-Trained Transformer-based model for modelling LoL event sequences
 
