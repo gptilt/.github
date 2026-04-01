@@ -28,17 +28,15 @@ We're committed to delivering:
 
 ### ✅ [Public workspace for sharing ML experiments](https://www.comet.com/gptilt#projects)
 
-### 🏗️ Basic dataset of 100K challenger matches
+### 🏗️ GPTilt Chat - RAG-powered AI chat
 
-### 🏗️ Ultimate datasets, of 100M match events and 15 minute snapshots from 100K matches
+### 🏗️ GPTilt Bench - Collection of benchmark datasets
 
-### 🏗️ GPTilt PoC - Proof of Concept of a Generative Pre-Trained Transformer-based model for LoL event sequence prediction
+### 🏗️ GPTilt PoC - Proof of Concept of a Generative Pre-Trained Transformer-based model for modelling LoL event sequences
 
 ### 💡 GPTilt fine-tuning for different tasks
 
 ### 💡 GPTilt interpretability - what can we learn from it?
-
-### 💡 GPTilt API - Production-level API for using the GPTilt model
 
 ## Links
 
