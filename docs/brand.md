@@ -106,6 +106,20 @@ Just clear conclusions, delivered with quiet confidence.
 - #0F2549 Deep Rift Blue;
 - #E2E8F0 Text.
 
+#### Semantic Red: Tilt Red
+
+**#FF4655 Tilt Red.**
+
+Not part of the Hexcore Glow signature, and never used decoratively. #00E5FF means *signal* — measured, understood, GPTilt. Tilt Red is its opposite, and carries that meaning wherever it appears: errors, failure modes, losses, model degradation, the things the data is warning you about.
+
+- **Hue 355°** — one degree off the true complement of Primary Glow (186°). Reads as opposition without the eye-vibration of a dead-opposite pair.
+- **Clear of Gold Accent (48°)** — red and gold never muddy each other when they share a layout.
+- **5.85:1 against Void BG.** Deliberately dimmer than Primary Glow's 12.76:1 — cyan stays the loudest thing in the system.
+- **Rule:** one red per view. If everything is alarming, nothing is.
+- **Print:** survives DTG's white underbase far better than the neon cyan does. Safe for apparel and campaign graphics.
+
+### Applying the Palette
+
 This is the official signature everywhere — GitHub repo, landing page, socials, README headers, Notion/docs sidebar, etc. It’s the “GPTilt blue” people will remember.
 
 Then apply the other two as **light-touch Accent Modes** (only swap 1–2 colors max):
@@ -114,12 +128,15 @@ Then apply the other two as **light-touch Accent Modes** (only swap 1–2 colors
 
 Use full Core Palette (already perfect for hype — glowing edges and gold frames pop exactly like the logo).
 
+Tilt Red stays at full **#FF4655** — highest chroma, and the version that holds up in print.
+
 #### **Docs Mode**
 
 - Keep exact same Void BG (#050A1F)  
 - Primary stays #00E5FF  
 - Swap Gold → #E8B923 (warmer, less flashy for long reads)  
 - Swap Deep Rift Blue → #0B1E3A (deeper tactical shade for code blocks, tables & sidebars)
+- Swap Tilt Red → #E63950 (deeper and calmer for long-form error notes and caveat callouts)
 
 #### **Playground / Dashboard Mode**
 
@@ -127,6 +144,7 @@ Use full Core Palette (already perfect for hype — glowing edges and gold frame
 - Primary stays #00E5FF  
 - Swap Gold → #FFEA80 (brighter for live win-probability lines)  
 - Swap Deep Rift Blue → #132E5E (futuristic latent-space depth for neural activations & heatmaps)
+- Swap Tilt Red → #FF6B78 (brighter for live loss and degradation lines against dense heatmaps)
 
 #### Why this hybrid system wins
 

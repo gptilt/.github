@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Empowering the League of Legends community with high-quality, open-source datasets, foundational tools and models for data science and research.</b>
+  <b>Open Data and Intelligence for Competitive Games.</b>
 </p>
 
 ---
